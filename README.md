@@ -1,5 +1,7 @@
 # Walmart-Store-Sales-Forecasting
 
+Data - https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
+
 Walmart provided historic data from February 2010 to October 2012 with a task to predict the department wide weekly store sales.
 Given the competition took place 5years ago; we wanted to rank amongst the top 100 on the leader board and if possible, outperform the winner. Certainly, there are some changes/improvements in the data science field over the last five years in term of the
 tools and modelling techniques.
